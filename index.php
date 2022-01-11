@@ -6,7 +6,7 @@
 <head>
 	<meta charset='utf-8'>
 	<meta name='viewport' content='width=device-width, minimum-scale=1.0, maximum-scale=1.0, initial-scale=1.0'>
-	<title>在线PS-随便撸源码</title>
+	<title>在线PS</title>
 	<meta name='keywords' content='在线ps,ps网页版,ps在线图片处理'>
     <meta name='description' content='设计PS是一款专业精简的在线ps图片处理软件，免下载、免安装，直接在浏览器打开网页版就可随时随地用它修正，调整和美化您的图片。'>
     <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
